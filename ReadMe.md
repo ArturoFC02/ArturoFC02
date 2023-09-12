@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌃 About Me:
 Hello! I am Arturo Flores, a passionate student of applied mathematics at the National Autonomous University of Mexico (UNAM), located in Mexico City.<br><br>My love of mathematics has led me to explore the exciting world of data science. Throughout my academic journey, I have developed a specialization in this discipline that combines my love of mathematics with solving real-world problems.<br><br>In my learning journey, I have gained experience in a variety of programming languages, including R, Python, and Julia, which has allowed me to effectively analyze and visualize data. Additionally, I am familiar with using SQL for database management and have a solid background in statistics, allowing me to extract valuable information from complex data.<br><br>I am excited to continue exploring the endless possibilities that data science offers and work on projects that positively impact the world. I am always willing to learn and collaborate on new and exciting challenges.
 
 
